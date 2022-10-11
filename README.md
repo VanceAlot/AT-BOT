@@ -9,5 +9,5 @@ Remaining Tasks Till Completion:
 
 ---
 
-If anyone decides to contribute, thank you <br />
-Please follow the structure of the project and your pull will surely be accepted. Thanks again!
+If anyone decides to contribute, thank you! <br />
+Please follow the structure of the project and your pull will surely be accepted. Thanks again to all my awesome contributors!
